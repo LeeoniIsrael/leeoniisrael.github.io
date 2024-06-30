@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.fe927caf.css",
-    "main.js": "/static/js/main.6e93ecb0.js",
+    "main.js": "/static/js/main.2aaa6401.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/weather-img.png": "/static/media/weather-img.ae15fd393c6f2c57ba7f.png",
     "static/media/instagramclone-img.png": "/static/media/instagramclone-img.b17d4e5cf9a1356fe4e4.png",
     "static/media/leeoniisrael.png": "/static/media/leeoniisrael.8fe0f06999ddb43e15d3.png",
+    "static/media/financetracker-img.png": "/static/media/financetracker-img.a5ed816cd4d5a9840066.png",
     "static/media/calc-img.png": "/static/media/calc-img.d90950ccc920f39b4ad7.png",
     "static/media/resume.pdf": "/static/media/resume.b9d711a76efa917461ee.pdf",
     "static/media/ai_institute_logo.png": "/static/media/ai_institute_logo.801fd1c4ffcc32211a3a.png",
@@ -17,11 +18,11 @@
     "static/media/bofa.png": "/static/media/bofa.7be1404c6eb84d1ebf90.png",
     "index.html": "/index.html",
     "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
-    "main.6e93ecb0.js.map": "/static/js/main.6e93ecb0.js.map",
+    "main.2aaa6401.js.map": "/static/js/main.2aaa6401.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.6e93ecb0.js"
+    "static/js/main.2aaa6401.js"
   ]
 }
